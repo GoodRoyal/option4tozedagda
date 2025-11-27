@@ -1,0 +1,17 @@
+# Contributing to Z-to-Agda
+
+Thanks for your interest! All contributions are welcome — bug reports, new Z features, more examples, documentation improvements, or even just typo fixes.
+
+## How to contribute
+
+### 1. Found a bug or missing Z feature?
+- Open an issue first (unless it’s trivial).
+- Describe the Z construct that isn’t handled yet, ideally with a minimal `.z` example.
+- Bonus: link to the relevant page in the Z Reference Manual (ISO/IEC 13568:2002).
+
+### 2. Want to send code?
+1. Fork the repository
+2. Create a branch: `git checkout -b fix/generic-defs` or `git checkout -b example/voting-system`
+3. Make sure everything still type-checks:
+   ```bash
+   agda agda/Everything.agda
