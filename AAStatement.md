@@ -9,7 +9,7 @@ The subject matter disclosed in this provisional patent application has been for
 
 A complete, type-checking, literate Agda development is publicly available at:
 
-> **https://github.com/GoodRoyal/orchestration-theory**
+> **https://github.com/GoodRoyal/option4tozedagda**
 
 ## Repository Contents
 
@@ -23,5 +23,6 @@ A complete, type-checking, literate Agda development is publicly available at:
 1. **Timestamped evidence** of conception and reduction to practice
 2. **Machine-verifiable enablement** under 35 U.S.C. § 112(a)
 3. **Public disclosure** within the inventor's one-year grace period under 35 U.S.C. § 102(b)(1)
+
 
 ## Verification Command
