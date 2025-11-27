@@ -18,3 +18,8 @@ git clone https://github.com/GoodRoyal/z2agda.git
 cd z2agda
 agda --version   # needs Agda ≥ 2.6.4
 agda Everything.agda
+
+https://zenodo.org/records/17729166
+
+I AM BUILDING THIS UP. PATIENCE IS A VIRTUE
+
