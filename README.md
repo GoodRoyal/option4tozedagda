@@ -1,25 +1,20 @@
-# orchestration-theory
+# Z-to-Agda : Formal translation from Z specifications to Agda
 
-## Formal Verification of the Paredes Orchestration Patents
+Translates a subset of the Z notation (ISO/IEC 13568:2002) into executable/checkable Agda code, with the goal of machine-checked refinement from high-level formal specs to dependently-typed implementations.
 
-**Inventor:** Juan Carlos Paredes • November 26, 2025
+## Why this exists
+- Z is great for specification but has almost no proof automation
+- Agda gives full dependent types and proof assistants love it
+- This bridge lets industry Z users get Agda-level guarantees
 
-Public machine-checked proofs in Cubical Agda for three provisional patent applications.
+## Current status
+- Parses schemas, basic types, predicates
+- Translates to Agda data types + refinement proofs
+- Tested on the classic "Birthday Book" and "Bank" examples
 
----
-
-### Start Here
-
-→ **[ParedesOrchestrationTheory.lagda.md](ParedesOrchestrationTheory.lagda.md)**
-
----
-
-### Contents
-
-| File | Description |
-|------|-------------|
-| `ParedesOrchestrationTheory.lagda.md` | Unified proof |
-| `appendices/A-PerpendicularDivergence.lagda.md` | Theorems 4.1, 4.2 |
-| `appendices/B-GrassmannHolonomy.lagda.md` | Theorem 7.3 |
-| `appendices/C-ThermodynamicHolonomy.lagda.md` | Theorem 9.2 |
-| `AA
+## Quick start
+```bash
+git clone https://github.com/GoodRoyal/z2agda.git
+cd z2agda
+agda --version   # needs Agda ≥ 2.6.4
+agda Everything.agda
