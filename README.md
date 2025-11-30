@@ -14,12 +14,12 @@ Translates a subset of the Z notation (ISO/IEC 13568:2002) into executable/check
 
 ## Quick start
 ```bash
-git clone https://github.com/GoodRoyal/z2agda.git
-cd z2agda
+git clone [https://github.com/GoodRoyal/option4tozedagda.git
+cd option4tozedagda
 agda --version   # needs Agda ≥ 2.6.4
 agda Everything.agda
 
 https://zenodo.org/records/17729166
 
-I AM BUILDING THIS UP. PATIENCE IS A VIRTUE
+
 
