@@ -24,5 +24,3 @@ A complete, type-checking, literate Agda development is publicly available at:
 2. **Machine-verifiable enablement** under 35 U.S.C. § 112(a)
 3. **Public disclosure** within the inventor's one-year grace period under 35 U.S.C. § 102(b)(1)
 
-
-## Verification Command
