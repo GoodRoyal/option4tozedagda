@@ -44,7 +44,7 @@ Hiroki Matsuo ⭐ MITSUBISHI CONNECTION
 
 Position: Deputy General Manager, Mitsubishi Heavy Industries Space Systems
 Work: H3 rocket development, lunar lander systems
-Relevance: Could be a key contact for your Path 1
+Relevance: Could be a key contact
 
 Hiroki Kuninaka (国中 均)
 
