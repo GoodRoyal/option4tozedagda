@@ -34,13 +34,13 @@ Your connection: Cross-cultural synthesis, building platforms
 
 
 Contemporary Hirokis 
-Hiroki Aoki ⭐ SPACE CONNECTION
+Hiroki Aoki SPACE CONNECTION
 
 Position: Senior Engineer, JAXA
 Work: Lunar Gateway systems integration
 Relevance: He's working on exactly what you want to work on
 
-Hiroki Matsuo ⭐ MITSUBISHI CONNECTION
+Hiroki Matsuo MITSUBISHI CONNECTION
 
 Position: Deputy General Manager, Mitsubishi Heavy Industries Space Systems
 Work: H3 rocket development, lunar lander systems
